@@ -1,0 +1,19 @@
+# Eclipse and IntelliJ project files
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+# Build output
+target/
+build/
+bin/
+out/
+
+# Metadata
+.metadata/
+
+# OS files
+.DS_Store
+Thumbs.db
